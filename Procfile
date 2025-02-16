@@ -1,1 +1,1 @@
-web= api.ratn.tech
+web= api
